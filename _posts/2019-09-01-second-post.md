@@ -17,6 +17,15 @@ title:  "DEVlog start"
 * 목표 : 1일 1commit
 * 분야
   * 기술 스택
+    * WEB
+      * Front_End
+        * HTML
+        * javaScript
+        * Framework
+          * Vue.js
+      * Back_End
+        * Framework
+          * Spring
   * 알고리즘
 
 - - -
