@@ -1,5 +1,9 @@
 ---
 title:  "DEVlog start"
+categories:
+  - Blog
+tags:
+  - Blog
 ---
 
 개발 블로그 다시 시작!  

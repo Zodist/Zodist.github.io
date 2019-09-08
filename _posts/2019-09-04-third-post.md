@@ -1,5 +1,9 @@
 ---
 title: "[javaScript] 비동기적 javascript : 비동기 처리 방법"
+categories:
+  - Javascript
+tags:
+  - Javascript
 ---
 
 자바스크립트는 하나의 스레드 (Single Thread) 기반의 언어  
